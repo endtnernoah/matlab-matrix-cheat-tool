@@ -1,2 +1,3 @@
 # matlab-matrix-cheat-tool
-A simple single-file web app I plan on using in my math exams
+
+We are allowed to use MatLab and custom software in our exams, but we still need to do all the annoying matrix calculations by hand. Therefore, I am developing a tool to automate this step for me and other people in my course.
